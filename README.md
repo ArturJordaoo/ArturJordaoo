@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Atualmente estou trabalhando como estagiário com gestão administrativa<br>Estudando para me tornar um desenvolvedor Full-stack<br>Atualmente aprendendo mais sobre React e Node<br>
+Me Chamo Artur,<br>Atualmente estou trabalhando como estagiário com gestão administrativa<br>Estudando para me tornar um desenvolvedor Full-stack<br>Atualmente aprendendo mais sobre React e Node<br>
 
 
 ## 🌐 Socials:
@@ -12,5 +12,3 @@ Atualmente estou trabalhando como estagiário com gestão administrativa<br>Estu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArturJordaoo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturJordaoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Frases de Devs
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
