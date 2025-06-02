@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Me Chamo Artur,<br>Atualmente estou trabalhando como estagiário com gestão administrativa<br>Estudando para me tornar um desenvolvedor Full-stack<br>Atualmente aprendendo mais sobre React e Node<br>
+Me Chamo Artur,<br>Atualmente estou trabalhando como Assistente de TI <br>Estudando para me tornar um desenvolvedor Full-stack<br>Atualmente aprendendo mais sobre React e Node<br>
 
 
 ## 🌐 Socials:
